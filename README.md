@@ -1,7 +1,7 @@
 # KobitoMenu
 
 メニューバーに鎮座して、メモを書いておくためのウィンドウを出してくれるアプリです。
-"Save" をクリックすると Kobito.app でメモを開けくようになっています。
+"Save" をクリックすると Kobito.app でメモを開けるようになっています。
 
 ![screenshot](screenshot.png)
 
